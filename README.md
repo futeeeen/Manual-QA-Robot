@@ -51,6 +51,37 @@ CHANNEL_SECRET=你的LineBot_Channel_Secret
 ```
 這些資訊請從 Line Developers Console 取得。
 
+## 🌐 Line Bot 與 Ngrok 連線設定
+由於 Line Bot 需要公開的 HTTPS 網址才能傳送訊息給您的 Server，本地開發時需透過 ngrok 進行轉發。
+
+### 1. 啟動 ngrok
+開啟終端機，執行以下指令 (對應 Flask 預設 Port 5000)：
+
+```Bash
+ngrok http 5000
+```
+
+### 2. 取得 Forwarding URL
+ngrok 啟動後，複製視窗中顯示的 HTTPS 網址，例如： https://abcd-123-456.ngrok-free.app
+
+### 3. 設定 Line Developer Console
+進入 Line Developers Console。
+
+選擇您的 Provider 與 Channel。
+
+切換到 Messaging API 分頁。
+
+在 Webhook URL 欄位填入：
+
+```Plaintext
+
+https://你的ngrok網址/callback
+```
+(注意：網址後方必須加上 /callback，這是程式中設定的路由)
+
+點擊 Verify 檢查連線是否成功。
+
+開啟 Use webhook 功能。
 
 ## 🚀 執行專案
 本專案提供 自動化腳本 與 手動分步執行 兩種方式。
@@ -87,37 +118,7 @@ python src/FAISS.py
 python src/QA_LINE_Robot.py
 ```
 
-## 🌐 Line Bot 與 Ngrok 連線設定
-由於 Line Bot 需要公開的 HTTPS 網址才能傳送訊息給您的 Server，本地開發時需透過 ngrok 進行轉發。
 
-### 1. 啟動 ngrok
-開啟終端機，執行以下指令 (對應 Flask 預設 Port 5000)：
-
-```Bash
-ngrok http 5000
-```
-
-### 2. 取得 Forwarding URL
-ngrok 啟動後，複製視窗中顯示的 HTTPS 網址，例如： https://abcd-123-456.ngrok-free.app
-
-### 3. 設定 Line Developer Console
-進入 Line Developers Console。
-
-選擇您的 Provider 與 Channel。
-
-切換到 Messaging API 分頁。
-
-在 Webhook URL 欄位填入：
-
-```Plaintext
-
-https://你的ngrok網址/callback
-```
-(注意：網址後方必須加上 /callback，這是程式中設定的路由)
-
-點擊 Verify 檢查連線是否成功。
-
-開啟 Use webhook 功能。
 
 ## 📝 程式功能詳解
 ### 1. Translate.py (文件翻譯)
