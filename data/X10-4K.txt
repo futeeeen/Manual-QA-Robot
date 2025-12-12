@@ -1,0 +1,1774 @@
+X10-4K
+Lamp Free Smart Theater User Guide
+
+
+IMPORTANT: Please read this User Guide to obtain important information on installing and using your product in a safe manner, as well as registering your product for future service. Warranty information contained in this User Guide will describe your limited coverage from ViewSonic® Corporation, which is also found on our web site at http://www.viewsonic.com in English, or in specific languages using the Regional selection box of our website.
+
+Model No. VS17612 P/N: X10-4K
+ 
+
+
+Thank you for choosing ViewSonic®
+As a world-leading provider of visual solutions, ViewSonic® is dedicated to exceeding the world’s expectations for technological evolution, innovation, and simplicity. At ViewSonic®, we believe that our products have the potential to make a positive impact in the world, and we are confident that the ViewSonic® product you have chosen will serve you well.
+Once again, thank you for choosing ViewSonic®!
+ 
+Safety Precautions
+Please read the following Safety Precautions before you start using the projector.
+•	Keep this user guide in a safe place for later reference.
+•	Read all warnings and follow all instructions.
+•	Allow at least 20“ (50 cm) clearance around the projector to ensure proper
+ventilation.
+•	Place the projector in a well-ventilated area. Do not place anything on the projector that prevents heat dissipation.
+•	Do not place the projector on an uneven or unstable surface. The projector may fall over, causing personal injury or projector malfunction.
+•	Do not use if the projector is tilted at an angle of more than 10° degrees left or right, nor at an angle of more than 15° degrees forwards or backwards.
+•	Do not look straight at the projector lens during operation. The intense light
+beam may damage your eyes.
+•	Always open the lens shutter or remove the lens cap when the projector lamp is
+on.
+•	Do not block the projection lens with any objects when the projector is under operation as this could cause objects to become heated and deformed or even cause a fire.
+•	The lamp becomes extremely hot during operation. Allow the projector to cool for approximately 45 minutes prior to removing the lamp assembly for replacement.
+•	Do not use lamps beyond the rated lamp life. Excessive use of lamps beyond the
+rated life could cause them to break on rare occasions.
+•	Never replace the lamp assembly or any electronic component unless the projector is unplugged.
+•	Do not attempt to disassemble the projector. There are dangerous high voltages
+inside which may cause death if you should come into contact with live parts.
+•	When moving the projector, be careful not to drop or bump the projector on anything.
+•	Do not place any heavy objects on the projector or connection cables.
+•	Do not stand the projector on end vertically. Doing so may cause the projector to fall over, causing personal injury or projector malfunction.
+•	Avoid exposing the projector to direct sunlight or other sources of sustained heat. Do not install near any heat sources such as radiators, heat registers, stoves, or other devices (including amplifiers) that may increase the temperature of the projector to dangerous levels.
+ 
+•	Do not place liquids near or on the projector. Liquids spilled into the projector may cause it to fail. If the projector does become wet, disconnect it from the power supply and call your local service center to have the projector serviced.
+•	When the projector is under operation, you may sense some heated air and odor from its ventilation grill. It is a normal operation and not a defect.
+•	Do not attempt to circumvent the safety provisions of the polarized or grounding-type plug. A polarized plug has two blades with one wider than the other. A grounding-type plug has two blades and a third grounding prong. The wide and third blade are provided for your safety. If the plug does not fit into your outlet, obtain an adapter and do not attempt to force the plug into the outlet.
+•	When connecting to a power outlet, DO NOT remove the grounding prong. Please ensure grounding prongs are NEVER REMOVED.
+•	Protect the power cord from being treaded upon or pinched, particularly at the
+plug, and at the point where it emerges from the projector.
+•	In some countries, the voltage is NOT stable. This projector is designed to operate safely within a voltage between 100 to 240 volts AC, but could fail if power cuts or surges of ±10 volts occur. In areas where voltage may fluctuate or cut out, it is recommended that you connect your projector through a power stabilizer, surge protector, or uninterruptable power supply (UPS).
+•	If smoke, an abnormal noise, or a strange odor is present, immediately switch the projector off and call your dealer or ViewSonic®. It is dangerous to continue using the projector.
+•	Use only attachments/accessories specified by the manufacturer.
+•	Disconnect the power cord from the AC outlet if the projector is not being used for a long period of time.
+•	Refer all servicing to qualified service personnel.
+
+CAUTION: Possibly hazardous optical radiation is emitted from this product. As with any bright light source, do not stare into the beam, RG2 IEC 62471- 5:2015
+ 
+Safety Precautions - Ceiling Mounting
+Please read the following Safety Precautions before you start using the projector.
+If you intend to mount the projector on the ceiling, it is strongly recommended that you use a proper fitting projector ceiling mount kit and that you ensure it is securely and safely installed.
+If you use an inappropriate projector ceiling mount kit, there is a safety risk that the projector may fall from the ceiling due to an improper attachment through the use of the wrong gauge or length screws.
+You can purchase a projector ceiling mount kit from the place you purchased your projector.
+ 
+  Contents
+ 
+Safety Precautions	3
+Introduction	9
+Features	9
+Package Contents	10
+Product Overview	11
+Projector - Controls and Functions	11
+Connection Ports	13
+Remote Control - Controls and Functions	14
+Remote Control - Controls and Functions	15
+Remote Control - Effective Range	16
+Remote Control - Replacing the Batteries	16
+Initial Setup	17
+Choosing a Location - Projection Orientation	17
+Projection Dimensions	18
+Mounting the Projector	19
+Making Connections	20
+Connecting to Power	20
+vRemote App	21
+Connecting to External Devices	22
+HDMI Connection	22
+USB-C Connection	22
+Wireless Screen Mirroring	23
+Connecting to Audio	24
+Bluetooth Speaker	24
+Bluetooth Out	26
+Connecting to Networks	27
+Wi-Fi Connection	27
+Custom SSID	29
+Wired LAN Connection	31
+Using the Projector	32
+Starting Up the Projector	32
+First Time Activation	32
+Preferred Language	32
+Projection Orientation	33
+Network Settings	33
+Source Input	34
+Selecting an Input Source	36
+Adjusting the Projected Image	37
+Adjusting the Projector's Height and Projection Angle	37
+Shutting Down the Projector	38
+Input Source Selected - On-Screen Display (OSD) Tree	39
+Operating the Projector	52
+Home Screen	52
+Home Screen - On-Screen Display (OSD) Menu Tree	53
+Menu Operations	58
+Aptoide	58
+Apps Center	59
+File Management	61
+Setting	65
+Appendix	83
+Specifications	83
+Projector Dimensions	85
+Timing Chart	85
+HDMI/USB-C Video Timing	85
+IR Control Table	87
+Glossary	88
+Troubleshooting	90
+LED Indicators	91
+Maintenance	92
+General Precautions	92
+Cleaning the Lens	92
+Cleaning the Case	92
+Storing the Projector	92
+Regulatory and Service Information	93
+Compliance Information	93
+FCC Compliance Statement	93
+Industry Canada Statement	93
+CE Conformity for European Countries	94
+Declaration of RoHS2 Compliance	95
+Indian Restriction of Hazardous Substances	96
+Product Disposal at End of Product Life	96
+Copyright Information	97
+Customer Service	98
+Limited Warranty	99
+Mexico Limited Warranty	102
+ 
+  Introduction
+Combining stunning 4K resolution with smart streaming functionality and a portable design, the ViewSonic® X10-4K projector delivers a theater-like experience in any room. With a lightweight design, easy carry handle, and short throw lens, the X10-4K can be conveniently moved from room to room, indoors to outdoors. It features 2,400 LED lumens of brightness, and with Wi-Fi connectivity, allows users to stream content from their favorite providers.
+Features
+•	Short throw lens design allows for a projected 100” screen size from only 1.77
+meters away.
+•	Auto V. keystone to correct a distorted image automatically.
+•	Bluetooth speaker, Auto Focus, and Screen Mirroring features.
+•	USB-C for video transmission and power supply.
+•	Eye protection feature in the event objects get too close to the light source (50
+cm or 100 cm).
+•	16 GB internal storage (Max. 12 GB available for user storage).
+•	Various Color modes for different projection purposes.
+•	Multi-language On-Screen Display (OSD) menus.
+ 
+Package Contents
+
+
+Item	Description
+[1]	X10-4K Projector
+[2]	Remote Control
+[3]	Quick Start Guide
+[4]	Power Cord
+[5]	USB-C Cable
+[6]	HDMI Cable
+[7]	Wi-Fi Dongle
+[8]	Batteries
+
+NOTE: The power cord and video cables included in your package may vary depending on your country. Please contact your local reseller for more information.
+ 
+Product Overview
+Projector - Controls and Functions
+
+
+
+
+
+
+Key	Description
+Power	Toggles between standby mode and power on.
+Volume	Increases/decreases the volume level.
+ 
+ 
+
+Connection Ports
+
+Port	Description
+[1] AC Power Cord Inlet	AC Power Cord inlet
+[2] Wi-Fi Dongle	Wi-Fi dongle socket
+[3] S/PDIF	S/PDIF signal output socket
+[4] AUDIO OUT (3.5 mm jack)	Audio signal output socket
+[5] AUDIO IN (3.5 mm jack)	Audio signal input socket for Bluetooth mode
+[6] HDMI 1¹	HDMI port³
+[7] HDMI 2¹	HDMI port³
+[8] USB-C²	USB-C port
+[9] MICRO SD	Micro SD socket (SDXC up to 64 GB - FAT32/NTFS)
+[10] LAN	RJ45 LAN port
+[11] USB 1 (5V/1.5A Out)	USB 2.0 Type A port (USB Reader - FAT32/NTFS)
+[12] USB 2 (5V/2A Out)	USB 3.0 Type A port (USB Reader - FAT32/NTFS)
+[13] Reset Button	Reset button for restarting the projector⁴
+[14] IR Sensor	IR Sensor for remote control
+¹ Supports HDCP 2.0/HDMI 2.2.
+² Please use the supplied USB-C cable, and ensure your USB-C device can support video transmission.
+³ iPhone/iPad users will need to buy an additional adapter. To avoid compatibility issues, please use Apple
+authorized accessories.
+⁴ Insert a paper clip into the Reset button to restart the projector if the system freezes.
+ 
+Remote Control - Controls and Functions
+ 
+Remote Control - Controls and Functions
+
+
+Button	Description
+[1] Power	
+ 	Turns the projector On or Off
+[2] Source	
+ 	Displays the input source selection bar.
+
+[3] Focus	
+ 	Automatically focus the image.
+To manually adjust, press and hold the Focus button on
+the remote control for three (3) seconds
+[4] Setting	
+ 	Displays the Settings menu.
+[5] Audio Mode	
+ 	Displays the speaker settings.
+[6] Bluetooth	
+ 	View Bluetooth options.
+[7] Up/Down/Left/Right	
+ 	Navigates and selects the desired menu items and makes adjustments.
+[7] Shuttle Wheel Left/
+Right		
+[8] OK	
+ 	Confirms the selection.
+[9] Return	
+ 	Returns to the previous screen.
+[10] Home	
+ 	Access the Home menu.
+[11] Volume Control	
+ 	Increases/decreases the volume level or mutes/ unmutes it.
+ 
+Remote Control - Effective Range
+To ensure proper function of the remote control
+follow the steps below:
+
+1.	The remote control must be held at an angle within 30° perpendicular to the projector’s IR remote control sensor(s).
+2.	The distance between the remote control and
+the sensor(s) should not exceed 8 m (26 ft.)
+NOTE: Refer to the illustration for the location of the infrared (IR) remote control sensor(s).
+Remote Control - Replacing the Batteries
+1.	Remove the battery cover from the bottom of the remote control by pressing the finger grip and sliding it across.
+2.	Remove any existing batteries (if necessary) and install two AAA batteries.
+NOTE: Observe the battery’s polarities as indicated.
+3.	Replace the battery cover by aligning it with the base and pushing it back into position.
+
+
+NOTE:
+•	Avoid leaving the remote control and batteries in excessive heat or a humid
+environment.
+•	Replace only with the same or equivalent type recommended by the battery manufacturer.
+•	If the batteries are drained or if you will not be using the remote control for an extended period of time, remove the batteries to avoid damage to the remote control.
+•	Dispose of the used batteries according to the manufacturer’s instructions and local environment regulations for your region.
+ 
+  Initial Setup
+This section provides detailed instructions for the initial set up your projector.
+Choosing a Location - Projection Orientation
+Personal preference and room layout will decide the installation location. Consider
+the following:
+•	Size and position of your screen.
+•	Location of a suitable power outlet.
+•	Location and distance between the projector and other equipment.
+The projector is designed to be installed in one of the following locations:
+
+Location	
+
+Front Table
+The projector is placed near
+the floor in front of the screen.	
+ 
+
+Front Ceiling
+The projector is suspended upside-down from the ceiling in front of the screen.	
+ 
+
+Rear Table¹
+The projector is placed near
+the floor behind the screen.	
+ 
+
+Rear Ceiling¹
+The projector is suspended upside-down from the ceiling behind the screen.	
+ 
+¹ A rear projection screen is required.
+ 
+Projection Dimensions
+•	16:9 Image on a 16:9 Screen
+
+
+NOTE: (e) = Screen / (f) = Center of Lens
+16:9 Image on a 16:9 Screen
+(a) Screen Size	(b) Projection Distance	(c) Image Height	Image Width
+	Minimum	Maximum		
+in.	cm	in.	m	in.	m	in.	cm	in.	mm
+30	76.2	20.9	0.53	20.9	0.53	14.7	37.36	26.15	664
+40	101.6	27.9	0.71	27.9	0.71	19.6	49.81	34.86	886
+50	127	34.8	0.88	34.8	0.88	24.5	62.26	43.58	1107
+60	152.4	41.8	1.06	41.8	1.06	29.4	74.72	52.29	1328
+70	177.8	48.8	1.24	48.8	1.24	34.3	87.17	61.01	1550
+80	203.2	55.7	1.42	55.7	1.42	39.2	99.62	69.73	1771
+90	228.6	62.7	1.59	62.7	1.59	44.1	112.07	78.44	1992
+100	254	69.7	1.77	69.7	1.77	49	124.53	87.16	2214
+110	279.4	76.7	1.95	76.7	1.95	53.9	136.98	95.87	2435
+120	304.8	83.6	2.12	83.6	2.12	58.8	149.43	104.59	2657
+130	330.2	90.6	2.3	90.6	2.3	63.7	161.88	113.3	2878
+140	355.6	97.6	2.48	97.6	2.48	68.6	174.34	122.02	3099
+150	381	104.5	2.66	104.5	2.66	73.5	186.79	130.74	3321
+160	406.4	111.5	2.83	111.5	2.83	78.4	199.24	139.45	3542
+200	508	139.4	3.54	139.4	3.54	98.1	249.05	174.32	4428
+NOTE: There is a 3% tolerance among these numbers due to optical component variations. It is recommended to physically test the projection size and distance before permanently installing the projector.
+ 
+Mounting the Projector
+NOTE: If you buy a third party mount, please use the correct screw size. Screw size can vary depending on the thickness of the mounting plate.
+1.	To ensure the most secure installation, please use a ViewSonic® wall or ceiling
+mount.
+2.	Ensure the screws used to attach the mount to the projector meet the following specifications:
+•	Screw type: M4 x 8
+•	Maximum Screw Length: 8 mm
+
+CAUTION:
+•	Avoid installing the projector near a heat source.
+•	Keep at least a 10 cm (3.9 in.) gap between the ceiling and the bottom of
+the projector.
+ 
+  Making Connections
+This section guides you on how to connect the projector with other equipment.
+Connecting to Power
+1.	Connect the power cord to the AC IN jack at the rear of the projector.
+2.	Plug the power cord into a power outlet.
+
+
+NOTE: When installing the projector, incorporate a readily accessible disconnect device in the fixed wiring, or connect the power plug to an easily accessible outlet near the unit. If a fault should occur during operation of the projector, use the disconnect device to switch off the power supply, or disconnect the power plug.
+ 
+vRemote App
+The vRemote App allows the user to control the projector via their personal mobile device. Users can change the input source, and mute/unmute or power on/off the projector.
+
+To use the vRemote App:
+1.	Download the App from Google Play or the Apple App Store and install it on your
+mobile device.
+2.	Enable, open, and login to the application.
+3.	Press the “Add Device” icon.
+4.	Press the “Next” icon.
+5.	Use the camera to scan the QR Code.
+6.	Now you are ready to control the projector.
+ 
+Connecting to External Devices
+HDMI Connection
+Connect one end of an HDMI cable to the HDMI port of your video device. Then connect the other end of the cable to the HDMI 1 or HDMI 2 port (both support HDCP 2.0/HDMI 2.2) of your projector.
+NOTE: iPhone/iPad users will need to use an additional adapter.
+USB-C Connection
+Connect one end of a USB-C cable to the USB-C port of your device. Then connect the other end of the cable to the USB-C port of your projector.
+NOTE: Ensure your USB-C device can support video transmission.
+
+
+
+ 
+Wireless Screen Mirroring
+Screen Mirroring provides a 5GHz Wi-Fi connection for users to mirror the screen
+on their personal device.
+NOTE: Ensure your device is connected to the same network as the projector.
+
+For iOS:
+1.	Access the drop down control menu.
+2.	Select the “Screen Mirroring” icon.
+3.	Choose “ViewSonic PJ-XXXX”.
+
+For Android:
+1.	Download and install the “Google Home” application and open it.
+2.	Pull-to-refresh the app and wait for 30 seconds.
+3.	“ViewSonic PJ-XXXX” will now be visible, select it.
+
+NOTE:		Some Android devices support direct “Casting”. If your device does, go to the Casting feature and choose “ViewSonic PJ-XXX” from the list of available devices. You can also scan the FAQ QR code and follow the steps to directly cast your Android device.
+ 
+Connecting to Audio
+Bluetooth Speaker
+The projector is equipped with Bluetooth that allows the user to connect their
+device wirelessly for audio playback. To connect and pair your device:
+1.	Go to: Home > Bluetooth.
+2.	Use the Left and Right directional buttons on the remote control to select
+Bluetooth Speaker or Bluetooth Pairing. Then press OK on the remote control.
+
+3.	When the below dialogue box appears, select Yes and press OK on the remote control to enter Bluetooth mode.
+
+ 
+4.	A sound effect will be audible upon entering pairing mode.
+5.	Upon successful connection, another sound effect will be audible.
+NOTE:
+•	Once paired, if both the projector and your device are powered on they will
+automatically connect via Bluetooth.
+•	The projector’s name will be labeled as “M2W”.
+•	Only the Power and Return buttons can exit Bluetooth mode.
+ 
+Bluetooth Out
+Connect the projector to external headphones or speakers that support Bluetooth.
+
+To connect and pair your device:
+1.	Go to: Home > Bluetooth.
+2.	Use the Left and Right directional buttons on the remote control to select the
+Bluetooth Out option.
+
+3.	The projector will search for nearby Bluetooth devices. Select your device from the list and press OK on the remote control.
+ 
+Connecting to Networks
+Wi-Fi Connection
+With the included Wi-Fi dongle, you can easily connect to wireless internet networks.
+
+To connect to a Wi-Fi network:
+1.	Insert the Wi-Fi dongle into the projector’s Wi-Fi dongle socket.
+2.	Go to: Home > Settings > Network Settings > Wi-Fi
+3.	Press Left or Right on the remote control to select On.
+
+ 
+4.	Available Wi-Fi networks will then be displayed. Select one of the available Wi-Fi networks.
+
+5.	If you connect to a secure Wi-Fi network, you must enter the password when prompted.
+
+ 
+Custom SSID
+1.	Ensure the Wi-Fi dongle is plugged into the projector’s Wi-Fi dongle socket.
+2.	Go to: Home > Settings > Network Settings > Wi-Fi
+3.	Press Left or Right on the remote control to select On.
+4.	From the available Wi-Fi networks list select Others and press OK on the remote control.
+
+5.	Enter the SSID and select the security level.
+
+ 
+6.	Enter the password when prompted.
+
+ 
+Wired LAN Connection
+You can easily connect to wired Internet networks and customize the connection as
+well.
+1.	Plug the RJ45 cable into the LAN port of the projector, then ensure the other end is plugged into your wired Internet source.
+2.	Go to: Home > Settings > Network Settings > Wired LAN
+
+3.	You can Configure the IP automatically or manually. Choosing Manual will allow access to IP Address, Subnet Mask, Default Gateway, and DNS Server.
+NOTE: It is recommended to let the system configure the network settings automatically by choosing Automatic for Configure IP.
+ 
+  Using the Projector
+Starting Up the Projector
+1.	Ensure the projector’s power cord is properly connected to a power outlet.
+2.	Press the Power button to turn on the projector.
+NOTE: The Status LED will be green during startup.
+
+ 	
+ 
+First Time Activation
+If the projector is activated for the first time, you will need to select your Preferred Language, Projection Orientation, Network Settings, and Source Input. Follow
+the on-screen instructions using the OK and Up/Down/Left/Right buttons on the remote control. When the Finish screen appears, this indicates the projector is ready to use.
+Preferred Language
+Select the desired language and press OK to confirm the selection.
+
+ 
+Projection Orientation
+Select the preferred projection orientation and press OK to confirm the selection. For more information, see page 17.
+
+Network Settings
+Insert the Wi-Fi dongle into the Wi-Fi dongle socket at the rear of the projector. Then select one of the available options. Additionally you can use a wired LAN connection. For more information, see page 27.
+
+ 
+Source Input
+Quickly access the Source Input menu by pressing the Down button on the remote control when at the Home Screen. Additionally, you can press the Source button on the remote control. For more information, see page 36.
+
+
+
+ 
+NOTE: If Auto Focus is On, the Automatic Focus Adjustment will run every time
+the projector is turned on.
+
+ 
+Selecting an Input Source
+The projector can be connected to multiple devices at the same time. However, it can only display one full screen at a time.
+
+The projector will automatically search for input sources. If multiple sources are connected, press the Source button on the remote control to select the desired input, or press the Down button when at the Home Screen until the source list is displayed.
+NOTE: Ensure the connected sources are also turned on.
+ 
+Adjusting the Projected Image
+Adjusting the Projector's Height and Projection Angle
+The projector is equipped with one (1) adjuster foot. Adjusting the foot will change the projector’s height and the vertical projection angle. Carefully adjust the foot to fine tune the projected image’s position.
+
+
+
+
+NOTE: If the projector is not placed on a flat surface or the screen and the projector are not perpendicular to each other, the projected image can become trapezoidal. However, the “Auto Vertical Keystone” function will correct the issue automatically.
+ 
+Shutting Down the Projector
+1.	Press the Power button on the projector or remote control and the following
+message will appear:
+
+2.	Press the Up/Down buttons on the remote control to select Turn Off and press
+OK on the remote control.
+3.	The Status LED will turn solid red once turned off.
+NOTE: When pressing Power on the remote control, you can choose from four
+options: Turn Off, Restart, Bluetooth Speaker, and Turn light source Off.
+ 
+Input Source Selected - On-Screen Display (OSD) Tree
+After your input source is selected, you can adjust the Image Setting and Advanced
+menus.
+
+Main Menu	Sub-menu	Menu Option
+Image Setting	Color Mode	Brightest	
+		TV	
+		Movie	
+		Gaming	
+		User 1	
+		User 2	
+	Brightness	(-/+, 0~100)	
+	Contrast	(-/+, -50~50)	
+	Color Temp	6500K	
+		7500K	
+		9300K	
+		User	
+		Red Gain	(-/+, 0~199)
+		Green Gain	(-/+, 0~199)
+		Blue Gain	(-/+, 0~199)
+	Tint	(-/+, 0~100)	
+	Saturation	(-/+, 0~100)	
+	Sharpness	(-/+, 0~100)	
+	Gamma	1.8	
+		2.0	
+		2.2	
+		2.35	
+		2.5	
+		sRGB	
+		Cubic	
+ 
+Main Menu	Sub-menu	Menu Option
+Image Setting	Color Management	Primary Color	Red
+			Green
+			Blue
+			Cyan
+			Magenta
+			Yellow
+		Hue	(-/+, 0~100)
+		Saturation	(-/+, 0~100)
+		Gain	(-/+, 0~100)
+	Reset Current Color
+Settings	Yes	
+		Cancel	
+Advanced	Aspect Ratio	Auto	
+		4:3	
+		16:9	
+		16:10	
+		Native	
+	HDR	Auto	
+		SDR	
+	EOTF	Low	
+		Mid	
+		High	
+	Frame Interpolation	Off	
+		Low	
+		Mid	
+		High	
+	HDMI Setting	Range	Auto
+			Full
+			Limited
+	3D Settings	3D Format	Auto
+			Off
+			Frame Sequential
+			Frame Packing
+			Top-Bottom
+			Side-by-Side
+		3D Sync Invert	Disable
+			Invert
+ 
+Main Menu	Sub-menu	Menu Option
+Advanced	Harman Kardon	Audio Mode	Movie
+			User
+		100Hz	
+		500Hz	
+		1500Hz	
+		5000Hz	
+		10000Hz	
+		Audio Volume	(-/+, 0~50)
+		Mute	Off
+			On
+		S/PDIF	Off
+			On
+	Information	Source	
+		Resolution	
+		3D Format	
+		HDR	
+ 
+Image Setting Menu
+To access the Image Setting menu:
+1.	Press Setting on the remote control.
+
+2.	Use the Up/Down buttons to select a menu.
+
+ 
+ 
+3.	Then use the Left/Right buttons to enter the sub-menu(s) and/or adjust the settings.
+
+4.	Press the Return button to go to the previous menu or exit.
+ 
+Menu Option	Description
+Color Mode	The projector is preset with several predefined picture modes so that you can choose one to suit your operating environment and input signal.
+Brightest
+Maximizes the brightness of the projected image. This mode is suitable for environments where extra-high brightness is required, i.e. well-lit rooms.
+TV
+Optimized for viewing sports in well-lit environments.
+Gaming
+Designed for playing video games.
+Movie
+Appropriate for colorful movies, video clips from digital cameras, or DVs through the PC input. Best for low-light environments.
+User 1/User 2
+Recalls the customized user settings.
+Brightness	The higher the value, the brighter the image. Lower
+values will result in a darker image.
+
+ 	 	 
+
+ 	   	 
+Contrast	Use this to set the peak white level after you have previously adjusted the Brightness setting to suit your selected input and viewing environment.
+ 
+Menu Option	Description
+Color Temp	Select the color temperature setting.
+•	6500K: Maintains normal white coloring.
+•	7500K: A higher, cooler color temperature than 6500K.
+•	9300K: The highest color temperature; makes the image appear the most bluish-white.
+•	User Color: Adjust red, green, and blue values as desired.
+Tint	The higher the value, the more greenish the picture becomes. The lower the value, the more reddish the picture becomes.
+Saturation	Refers to the amount of that color in a video picture. Lower settings produce less saturated colors; in fact, a setting of “0” removes that color from the image entirely. If the saturation is too high, that color will be overpowering and unrealistic.
+Sharpness	A high value results in a sharper picture; a low value
+softens the picture.
+Gamma	Reflects the relationship between input source and
+picture brightness.
+ 
+Menu Option	Description
+Color Management	Only in permanent installations with controlled lighting levels such as: boardrooms, lecture halls, or home theaters should Color Management be considered.
+
+
+Red	Yellow	Green White
+Magenta	Cyan
+
+
+Blue
+
+
+Color Management provides fine color control adjustment to allow for more accurate color reproduction, should you require it.
+If you have purchased a test disc, which contains various color test patterns and can be used to test the color presentation on monitors, TVs, projectors, etc., you can project any image from the disc on the screen and enter the Color Management menu to make adjustments.
+Reset Current
+Color Settings	Return current color settings to their default values.
+ 
+Advanced Setting Menu
+To access the Advanced menu:
+1.	Press Setting on the remote control.
+
+2.	Press the Right button to access the Advanced menu.
+
+ 
+3.	Use the Up/Down buttons to select a menu.
+
+4.	Then use the Left/Right buttons to enter the sub-menu(s) and/or adjust the settings.
+5.	Press the Return button to go to the previous menu or exit.
+ 
+Menu Option	Description
+Aspect Ratio	The Aspect Ratio is the ratio of the image width to the image height. With the advent of digital signal processing, digital display devices, like this projector, can dynamically stretch and scale the image output to a different aspect than that of the image input signal.
+NOTE: Only supports HDMI/USB-C signal input.
+
+ 
+Auto
+Scales an image proportionally to fit the projector’s native resolution in its horizontal width. This is suitable for the incoming image which is neither 4:3 nor 16:9 and you want to make the most use of the screen without altering the image’s aspect ratio.
+4:3
+Scales an image so that it is displayed in the center of the screen with a 4:3 aspect ratio. This is most suitable for 4:3 images like computer monitors, standard definition TV, and 4:3 aspect DVD movies, as it displays them without aspect alteration.
+ 
+Menu Option	Description
+Aspect Ratio	16:9
+Scales an image so that it is displayed in the center of the screen with a 16:9 aspect ratio. This is most suitable for images which are already in a 16:9 aspect, like high definition TV.
+16:10
+Scales an image so that it is displayed in the center of the screen with a 16:10 aspect ratio. This is most suitable for images which are already in a 16:10 aspect.
+Native
+Projects the image as its original resolution and resizes it to fit within the display area. For input signals with lower resolutions, the projected image will be displayed in its original size.
+HDR	The projector supports HDR imaging. It can automatically detect the dynamic range of the source from the HDMI 1 & HDMI 2 ports, and optimize settings to reproduce contents under a wide range of light conditions.
+EOTF	Automatically adjusts the brightness levels of your image according to the input source. You can also manually select a brightness level to display better picture quality.
+NOTE: This function is not available when SDR is selected in the HDR menu.
+Frame
+Interpolation	Smooths the picture quality of high speed moving objects. This is especially for users who enjoy fast paced sporting events.
+HDMI Settings	Range
+Select a suitable color range according to the color range
+setting of the connected output device.
+•	Full: Sets the color range from 0~255.
+•	Limited: Sets the color range from 15~235
+•	Auto: Sets the projector to detect the range of the input
+signal automatically.
+ 
+Menu Option	Description
+3D Settings	Enables you to enjoy 3D movies, videos, and sporting events in a more realistic way by presenting the depth of the images while wearing 3D glasses.
+3D Format
+Adjust and choose from: Automatic, Off, Frame Sequential, Frame Packing, Top-Bottom, Side-by-Side.
+3D Sync Invert
+Allows for correction if the 3D image depth is inversed.
+Harman/Kardon	Adjust the audio settings.
+Information	Shows Input Source and Resolution.
+ 
+  Operating the Projector
+This section will introduce the Home Screen and its menus.
+Home Screen
+The Home Screen is displayed every time you start the projector. To navigate the Home Screen, simply use the directional buttons on the remote control. You can return to the main Home Screen at any time by pressing the Home button on the remote control, regardless of what page you are on.
+
+
+Menu	Description
+Aptoide	Use to download common, popular Apps.
+Apps Center	Access and view all the applications you have installed.
+File Management	Provides a user interface to manage files and folders.
+Setting	Manage various categories such as: Network settings, Basic and Advanced settings, Date & Time, Firmware update, and System Information.
+Screen Mirroring	Mirror your personal device’s screen through the projector.
+Add App	Select your favorite Apps and add them to the Home Screen.
+ 
+Home Screen - On-Screen Display (OSD) Menu Tree
+Main Menu	Sub-menu	Menu Option
+Aptoide	
+Apps Center	
+Settings	Network Settings	WiFi	Off
+			On	SSID:
+				Configure IP
+				IP Address
+				Subnet Mask
+				Default Gateway
+				DNS Server
+				Others
+		Wired LAN	Configure IP	Automatic
+				Manual
+			IP Address	xxx.xxx.xxx.xxx
+			Subnet Mask	xxx.xxx.xxx.xxx
+			Default Gateway	xxx.xxx.xxx.xxx
+			DNS Server	xxx.xxx.xxx.xxx
+	Date & Time	Automatic Date
+& Time	Off	
+			On	
+		Date		
+		Time		
+		Time Zone		
+		Time Format	12 Hours	
+			24 Hours	
+ 
+Main Menu	Sub-menu	Menu Option
+Settings	Basic Settings	Language	English	
+			French	
+			German	
+			Italian	
+			Spanish	
+			Russian	
+			繁體中文	
+			簡體中文	
+			日本語	
+			韓語	
+			Swedish	
+			Dutch	
+			Turkish	
+			Czech	
+			Portuguese	
+			Thai	
+			Polish	
+			Finnish	
+			Arabic	
+			Indonesian	
+			Hindi	
+			Vietnam	
+			Greek	
+		Projector
+Projection	Front Table	
+			Front Ceiling	
+			Rear Table	
+			Rear Ceiling	
+		Keystone	Manual	(-/+, -40~40)
+			Auto V Keystone	Disable
+				Enable
+		Focus	Manual	
+			Auto Focus	Off
+				On
+ 
+Main Menu	Sub-menu	Menu Option
+Settings	Basic Settings	Eye Protection	Off	
+			50 cm	
+			100 cm	
+	Advanced
+Settings	Power On Source	Home	
+			HDMI 1	
+			HDMI 2	
+			USB-C	
+		Power On/Off
+Ring Tone	Off	
+			On	
+		Auto Power On	Direct Power On	Disable
+				Enable
+			CEC	Disable
+				Enable
+		Smart Energy	Auto Power Off	Disable
+				10 minutes
+				20 minutes
+				30 minutes
+			Sleep Timer	Disable
+				30 minutes
+				1 hour
+				2 hours
+				3 hours
+				4 hours
+				8 hours
+				12 hours
+			Power Saving	Enable
+				Disable
+ 
+Main Menu	Sub-menu	Menu Option
+Settings	Advanced
+Settings	Harman Kardon	Audio Mode	Movie
+				Custom
+			100Hz	
+			500Hz	
+			1500Hz	
+			5000Hz	
+			10000Hz	
+			Audio Volume	(-/+, 0~50)
+			Mute	Off
+				On
+			S/PDIF	Off
+				On
+		Light Source Level	Full	
+			Eco	
+		High Altitude
+Mode	Off	
+			On	
+		Reset Settings	Yes	
+			Cancel	
+		Reset to Factory
+Default	Yes	
+			Cancel	
+	Firmware Upgrade	Software Update Online	
+		Software Update by USB	
+		MCU Version	
+		Software Version	
+		USB-C Version	
+		Bluetooth Version	
+ 
+Main Menu	Sub-menu	Menu Option
+Settings	Information	Light Source Hours	
+		System Version	
+		Memory Information	
+		Network Mac Address	
+		Wi-Fi Mac Address	
+Screen Mirroring	
+File Management	
+Add App	
+Add App	
+Add App	
+Add App	
+ 
+Menu Operations
+Aptoide
+The projector is pre-loaded with the Aptoide store, which allows users to download
+and install different Apps.
+1.	Select: Home > Aptoide.
+
+2.	Use the direction buttons to navigate the menu options. When you find your
+preferred App, press the OK button to install it.
+
+NOTE: Users can install third-party Apps by .apk file in File Management.
+However, some third-party Apps may have compatibility issues.
+ 
+Apps Center
+View, launch, and uninstall Apps.
+1.	To view your Apps, select: Home > Apps Center.
+
+2.	Use the direction buttons to select the desired App. Then press OK on the remote control to launch the App.
+
+NOTE: Press the Home button on the remote control to return to the Home Screen at anytime.
+ 
+To Uninstall Apps
+1.	Open the Apps Center by selecting: Home > Apps Center.
+2.	Use the directional buttons to select the desired App.
+3.	Press and hold OK on the remote control for three (3) seconds. The below dialogue box will appear:
+
+4.	Select OK to uninstall the App.
+NOTE: Press the Home button on the remote control to return to the Home Screen at anytime.
+ 
+File Management
+Easily manage files and folders.
+1.	Select: Home > File Management.
+
+2.	Select a device on the source list: USB, Local Storage, MicroSD, etc. Use the direction buttons to select the desired file. Then press OK on the remote control to open the selected file.
+
+3.	Press the Return button to go to a previous a level.
+NOTE: Press the Home button on the remote control to return to the Home Screen at anytime.
+ 
+How to Edit a File
+1.	While in File Management, press and hold the OK button for three (3) seconds.
+2.	A check box will appear at the front of each file. Use the direction buttons and
+press OK to select one or more files.
+
+3.	By pressing the Right button, Copy, Paste, Cut, Delete, Select All, and Return
+boxes will be displayed.
+
+4.	Select your desired action and press OK to execute.
+5.	If you are Copying or Cutting, select your destination folder to complete the
+process.
+ 
+How to Use Control Bar Buttons
+The Control Bar buttons will appear on screen if a video, music, or photo file are
+selected to be opened.
+
+
+Picture	Video	Music
+
+ 	Back	
+ 	Back	
+ 	Back
+
+ 	Play	
+ 	Rewind	
+ 	Play
+
+ 	Next	
+ 	Play	
+ 	Pause
+
+ 	Zoom in	
+ 	Pause	
+ 	Next
+
+ 	Zoom out	
+ 	Fast Forward	
+ 	Shuﬄe
+
+ 	Rotate (left)	
+ 	Next	
+ 	Repeat All
+
+ 	Rotate (right)	
+ 	Volume Control	
+ 	Repeat One
+				
+ 	Play List
+				
+ 	Information
+Tips for Using USB
+When using USB for reading and/or storage please keep in mind the following:
+1.	Some USB storage devices may not be compatible.
+2.	If you use an USB extension cable, the USB device may not recognize the USB.
+3.	Only use USB storage devices formatted with Windows FAT32 or NTFS file system.
+4.	Larger files will need extra time to load.
+5.	Data on USB storage devices may be damaged or lost. Back up important files.
+ 
+Supported File Formats
+Supported Office formats:
+
+
+I.	
+
+Document viewing function		Items	Indicators
+		1	doc/docx	Able to open and read documents in doc/docx
+		2	xls/xlsx	Able to open and read documents in xls/xlsx
+		3	ppt/pptx	Able to open and read documents in ppt/pptx
+		4	Pdf	Able to open and read documents in pdf
+
+
+
+
+II.	
+
+
+Supporting Interface Language	
+
+
+
+1	
+
+
+
+Supporting Interface 44 languages	English, Simplified Chinese, Chinese (TW), Chinese (HK), Spanish (LA), French (EU), PT (EU), PT (BR),
+German, Russian, Italian, Swedish, Spanish (EU), Korean, Arabic, Farsi, Serbian, Bosnian, Macedonian, Bulgarian, Ukrainian, Greek, Norwegian, Danish, Czech, Hungarian, Slovak, Polish, Romanian, Finnish, Estonian, Latvian, Lithuanian, British English, Slovenian, Croatian, Turkish, Vietnamese, Bahasa Indonesia, Dutch, Malay, Thai, Hindi, Hebrew, Burmese, Catalan.
+Supported Multimedia formats:
+Extension	Codec
+.xvid
+.avi	Video	Xvid, H.264
+	Audio	MP3
+
+.mp4
+.m4v
+.mov	Video	H.264/MPEG 4
+	Audio	AAC
+.mkv	Video	H.264
+.ts
+.trp
+.tp
+.mts
+.m2ts	Video	H.264, MPEG2
+	
+Audio	
+MP3/AAC
+.vob	Video	MPEG1, MPEG2
+	Audio	DVD-LPCM
+.mpg	Video	MPEG1
+ 
+Setting
+Under Setting you can adjust Network, Basic, and Advanced Settings, Date & Time, Firmware Update, and view Information.
+
+Network Settings
+1.	Select: Home > Setting > Network Settings.
+
+ 
+2.	Choose from one of the available options: Wi-Fi or Wired LAN.
+
+3.	To setup a Wireless or Wired LAN Connection, see “Connecting to Networks” on
+page 27.
+ 
+Basic Settings
+1.	Select: Home > Setting > Basic Settings.
+
+2.	Use the Up and Down buttons to select the desired option and press OK. Then use the Left and Right buttons to make adjustments or selections.
+
+ 
+ 
+3.	To return to a previous menu press the Return button.
+
+Menu	Description
+Language	Select your desired language.
+Projector Position	Select the preferred projection position.
+Keystone	Adjust trapezoidal screen image distortion.
+Manual
+Keystone can be adjusted manually from -40 to 40.
+Auto V Keystone
+Provides a rectangular screen image by automatically adjusting the keystone number when there is a trapezoidal screen image caused by the tilting of the projector.
+•	Enable: Automatically adjust the keystone number.
+•	Disable: Manually adjust the keystone number.
+NOTE: If Manual is selected, Auto V Keystone will change to Disable automatically.
+ 
+Menu	Description
+Focus	Adjust the focus of the screen image.
+Manual
+Adjust the focus with the Left and Right buttons on
+the remote control.
+
+ 
+Auto Focus
+Choose from the following:
+•	On: Automatically adjust the focus.
+•	Off: Manually adjust the focus.
+NOTE: If Auto Focus is On, the projector will automatically focus the screen image when turned on or the position or angle is adjusted.
+ 
+Menu	Description
+Eye Protection	To protect eyes from the direct light of the projector, when an object gets close to the lens, a sensor will detect it and automatically turn off the light.
+50 cm
+Set the distance to 50 cm between the lens and object.
+100 cm
+Set the distance to 100 cm between the lens and object.
+Off
+Turn off the sensor.
+
+
+ 
+
+ 
+Date & Time
+Adjust Date, Time, Time Zone, and Time Format.
+NOTE: The time is displayed in the top-right corner after connecting to the
+Internet.
+1.	Select: Home > Setting > Date & Time.
+
+2.	Use the Up and Down buttons to select the desired option and press OK. Then use the Left and Right buttons to make adjustments or selections.
+
+ 
+Menu	Description
+Automatic Date & Time	Users can synchronize the date and time automatically after connecting to the Internet.
+On
+Turn on synchronization.
+Off
+Turn off synchronization.
+Time Zone	Select your desired location.
+Time Format	Select a different display time format.
+12 Hours
+12-hour clock.
+24 Hours
+24-hour clock.
+ 
+Firmware Upgrade
+Users can update the firmware by internet or USB, and check the version number.
+NOTE: Do not unplug the power cord, USB, or disconnect from the Internet
+during the upgrading process.
+1.	Before entering the Firmware Upgrade menu, ensure the projector is connected to the Internet.
+2.	To enter the menu, select: Home > Setting > Firmware Upgrade.
+
+Firmware Update Online
+1.	Go to: Home > Setting > Firmware Upgrade > Software Update Online.
+
+ 
+2.	Select Enter by pressing OK on the remote control.
+3.	The system will check the ViewSonic website (OTA) and display the below dialog message if their is new Firmware.
+4.	After selecting Yes, a progress bar will appear as the update process begins.
+
+5.	After reaching 100%, the projector will restart and the screen will turn to black for a few minutes. The whole updating process will take about 10 minutes.
+6.	After updating the Firmware, it will take a few minutes to restart the projector.
+ 
+Firmware Update by USB
+1.	Download the latest version from the ViewSonic website and copy the file to a
+USB device.
+2.	Plug the USB into the projector, then go to: Home > Setting > Firmware Upgrade
+> Software Update By USB.
+3.	Select Enter by pressing OK on the remote control.
+
+4.	The system will detect the Firmware version and display the above dialog message.
+5.	After selecting Yes, a progress bar will appear as the update process begins.
+6.	After reaching 100% the projector will restart. The whole process will take about
+10 minutes.
+7.	After updating the Firmware, it will take a few minutes to restart the projector.
+NOTE: Only the USB 2 (3.0) port can support Firmware updating.
+ 
+Advanced Settings
+1.	Select: Home > Setting > Advanced Settings.
+
+2.	Use the Up and Down buttons to select the desired option and press OK. Then use the Left and Right buttons to make adjustments or selections.
+
+ 
+ 
+3.	To return to a previous menu press the Return button.
+
+Menu	Description
+Power On Source	Allows the user to enter the desired source directly
+after turning on the projector.
+Power On/Off Ring Tone	Enable or disable the power on/off ring tone.
+Auto Power On	Direct Power On
+Turn on the projector automatically once plugged
+into an outlet.
+CEC
+This projector supports CEC (Consumer Electronics Control) function for synchronized power on/off operation via HDMI connection. That is, if a device that also supports CEC function is connected to the HDMI input of the projector, when the projector’s power is turned off, the power of the connected device will also be turned off automatically. When the power of the connected deice is turned on, the projector’s power will be turned on automatically.
+NOTE: Ensure both the projector’s and the connected device’s CEC function are turned on.
+ 
+Menu	Description
+Smart Energy	Auto Power Off
+The projector can turn off automatically after a set period of time once no input source is detected.
+Sleep Timer
+Turn off automatically after a set period of time.
+Power Saving
+Lower power consumption if no input source is detected after five (5) minutes.
+Harmon Kardon	Audio Mode
+•	Movie: Default audio mode.
+•	User: Allows the user to customize the audio equalizer.
+NOTE: In Custom mode, 100Hz, 500Hz, 1500Hz, 5000Hz, and 10000Hz can be selected.
+
+ 
+Audio Volume
+Adjust the volume from 0 to 50.
+Mute
+Mute or unmute the volume.
+S/PDIF
+Select for audio output via the S/PDIF port.
+ 
+Menu	Description
+Light Source Level	Select the suitable power consumption of the LED.
+Full
+100%
+Eco
+70%
+High Altitude Mode	It is recommended that you use High Altitude Mode when your environment is between 1,500- 3,000 m above sea level, and a temperature between 5°C-25°C.
+ 
+NOTE: If you use this projector under other extreme conditions excluding the above, it may display auto shut-down symptoms, which is designed to protect your projector from over-heating. In cases like this, you should switch to High
+Altitude Mode to solve these symptoms. However, this is not to state that this projector can operate under any and all harsh or extreme conditions.
+Reset Settings	Reset the Settings to default.
+NOTE: Language, High Altitude Mode, Projector Position, Network Settings, All installed Apps in the Apps Center, Add App,
+and Light Source Hours will remain
+unchanged.
+Reset to Factory Default	Factory reset.
+NOTE: Light Source Hours will remain
+unchanged.
+ 
+Information
+1.	Select: Home > Setting > Information.
+
+2.	View system status and information.
+
+NOTE: Press the Home button on the remote control to return to the Home Screen at anytime.
+ 
+Adding Apps
+Add your favorite Apps to the Home Screen.
+1.	From the Home Screen, select Add App and then press OK on the remote control.
+
+2.	Use the directional buttons to select the desired App and press OK.
+
+ 
+3.	Now your favorite App will appear on the Home Screen.
+
+Delete Apps From the Home Screen
+1.	From the Home Screen, select the App you want to delete and press and hold OK
+for three (3) seconds.
+2.	The message, “Do you want to Delete this application from My Favorites?” will
+appear.
+
+3.	Select Yes, and press OK to delete the App.
+ 
+  Appendix
+Specifications
+
+Item	Category	Specifications
+Projector	Type	0.47” 4K-UHD, LED
+	Display Size	30”~200”
+	Brightness	2,400 LED Lumens
+	Throw Distance	0.5-3.5 m (100”±3%@1.77 m)
+	Lens	F=1.8, f=8.5 mm
+	Optical Zoom	Fixed
+	Lamp Type	RGBB LED
+	Light Source Life
+(Normal)	up to 30,000 hours
+	Display Color	1.07 Billion Colors
+	Keystone	-/+ 40 (Vertical)
+Input Signal	HDMI	fh: 30K~97KHz, fv:24~85Hz,
+Resolution	Native	3840 x 2160
+	Support	VGA (640 x 480) to 4K (3840 x 2160)
+Local Storage	Total	16 GB
+	Available	12 GB
+Input	Audio-In (3.5 mm)	1
+	HDMI	2 (HDMI 2.0, HDCP 1.4/2.2)
+	SD Card	Micro SD (Supports up to 64 GB, SDXC)
+	USB Type-C	1 (5V/2A)
+	USB Type-A	2 (USB 3.0 Reader x 1; USB 2.0 Reader x 1)
+	RJ45 Input	1
+	Wi-Fi Input	1 (5G)
+	Bluetooth Input	1 (BT 4.0/Audio-In)
+Output	Audio-Out (3.5 mm)	1
+	S/PDIF	1
+	Speaker	8W Cube x 2
+	USB Type A (Power)	2 (USB 3.0, 5V/2A; USB 2.0, 5V/1.5A)
+Power Adapter¹	Input Voltage	AC 100-240V, 50/60 Hz (auto switch)
+Operating Conditions	Temperature	0°C to 40°C (32°F to 104°F)
+	Humidity	0% to 90% (non-condensing)
+Dimensions	Physical
+(W x H x D)	261 x 271 x 166 mm
+(10.3” x 10.7” x 6.5”)
+ 
+Item	Category	Specifications
+Weight	Physical	4.1 kg (9 lbs)
+Power Saving Modes	On	140W (Typical)
+	Off	< 0.5W (Standby)
+¹ Please use the power adapter from ViewSonic® or an authorized source only.
+ 
+Projector Dimensions
+261 mm (W) x 271 mm (H) x 166 mm(D)
+
+Timing Chart
+HDMI/USB-C Video Timing
+Signal	Resolution (dots)	Refresh Rate (Hz)
+SDTV (480i)	720 x 480	60
+SDTV (480p)	720 x 480	60
+SDTV (576i)	720 x 576	50
+SDTV (576p)	720 x 576	50
+HDTV (720p)	1280 x 720	50, 60
+HDTV (1080p)	1920 x 1080	24, 25, 30, 50, 60
+HDTV (1080i)	1920 x 1080	50, 60
+UHDTV (4K)	3840 x 2160	24, 25, 30, 50, 60
+VGA	640 x 480	59, 67, 72, 75, 85
+720 x x400	720 x 400	70
+SVGA	800 x 600	56, 60, 72, 75, 85, 120
+832 x 624	832 x 624	75
+XGA	1024 x 768	60, 70, 75, 85
+1024 x 576	1024 x 576	60
+XGA+	1152 x 864	75
+1152 x 870	1152 x 870	75
+WXGA	1280 x 768	60, 75, 85
+WXGA	1280 x 800	60, 75, 85
+SVGA	1280 x 1024	60, 75, 85
+1280 x 720	1280 x 720	120
+ 
+Signal	Resolution (dots)	Refresh Rate (Hz)
+1280 x 960	1280 x 960	60, 85
+HD	1360 x 768	60
+WXGA+	1440 x 900	60, 75, 85
+1400 x 1050	1400 x 1050	60
+1600 x 1200	1600 x 1200	60
+WSXGA+	1680 x 1050	60
+WUXGA	1920 x 1200	60
+ 
+IR Control Table
+
+Function	Address		Code	Inverse
+	Byte 1	Byte 2	Byte 3	Byte 4
+Power On/Off	83	F4	17	E8
+Home	83	F4	16	E9
+Focus	83	F4	92	6D
+Source	83	F4	40	BF
+Setting	83	F4	30	CF
+Up	83	F4	0B	F4
+Down	83	F4	0C	F3
+Left	83	F4	0E	F1
+Right	83	F4	0F	F0
+OK	83	F4	15	EA
+Bluetooth	83	F4	A2	5D
+Return	83	F4	28	D7
+Mute	83	F4	14	EB
+Volume +	83	F4	82	7D
+Volume -	83	F4	83	7C
+Audio Mode	83	F4	9E	61
+ 
+Glossary
+This section describes the standard glossary of terms used in all projector models. All terms are listed in alphabetical order.
+NOTE: Some terms may not be applicable to your projector.
+
+A	Aspect Ratio
+Refers to the ratio of the image width to the image height.
+B	Brightest Mode
+Maximizes the brightness of the projected image. This mode is ideal for environments where extra-high brightness is required, such as using the projector in well lit rooms.
+	Brightness
+Adjusts brightness levels of the screen image
+C	CEC (Consumer Electronics Control)
+Synchronizes power on/off operation via HDMI connection. That is, if a device that also supports CEC function is connected to the HDMI input of the projector, when the projector’s power is turned off, the power of the connected device will also be turned off automatically. When the power of the connected device is turned on, the projector’s power will be turned on automatically.
+	Color
+Adjusts the color saturation.
+	Color Temp
+Allows users to select specific color temperature settings to further customize their viewing experience.
+	Contrast
+Adjusts the difference between the image background (black level) and the
+foreground (white level).
+F	Focus
+Manually improve the clarity of the projected image.
+ 
+
+G	Gamma
+Allows the user to manually select the greyscale curve of the projector.
+H	HDMI Range
+Allows the user to select HDMI greyscale range between 0~255 (full range) ,
+16~240 (limited range) or Auto by the signal type detected.
+	HDR (High-Dynamic Range)
+Keeps the brightness level and enhances details on the dark level.
+	High Altitude Mode
+Optional mode for users who live in an environment between 1,500 m and 3,000 m above sea level, and the temperature is between 5° C and 25° C. Activating it will improve projector cooling and performance.
+I	Information
+Displays the timing mode (video signal input), the projector model number, the serial number, and the ViewSonic® website URL.
+	Input Select
+Toggles between the various input options that are available for the
+projector.
+K	Keystone
+The distortion of an image caused by projecting it onto an angled surface.
+L	Light Source Level
+Use Normal or Eco mode to adjust the brightness level and power
+consumption.
+M	Movie Mode
+A Picture Mode appropriate for playing colorful movies, video clips from digital cameras, or DVs through the PC input. Best for a low light environment.
+S	Sharpness
+Adjusts the picture quality.
+ 
+Troubleshooting
+This section describes some common problems that you may experience when
+using the projector.
+
+Problem or Issue	Possible Solutions
+The projector does not turn on	•	Ensure the power cord is properly attached to the
+projector and to the power outlet.
+•	If the cooling process has not completed, please wait until it has finished then try to turn on the projector again.
+•	If the above does not work, try another power outlet or another electrical device with the same power outlet.
+There is no picture	•	Ensure the video source cable is connected properly, and that the video source is turned on.
+•	If the input source is not selected automatically, select the correct source with the Source key on either the projector or the remote control.
+The image is blurred	•	Adjusting the Focus Ring will help correctly focus the projection lens.
+•	Ensure the projector and screen are aligned properly. If necessary, adjust the height of the projector as well as the projection angle and direction.
+The remote control does not work	•	Ensure there are no obstacles between the remote control and projector; and that they are within 8 m (26 ft) of each other.
+•	The batteries may be out of power, please check
+and replace if necessary.
+The projector/system is frozen and will not respond	•	Using a paper clip, carefully insert it into the Reset button at the rear of the projector to reset the device.
+ 
+LED Indicators
+Light	Status and Description
+
+ 	
+ 	
+Power
+Red	Off	Stand-by mode
+Green	Off	Powering up
+Green	Off	Normal operation
+Green	Off	Burn in Off (for Factory)
+Bluetooth
+Green	Blue Flashing
+1 time each second	Bluetooth connection in stand-by mode
+Green	Blue Flashing
+2 times each second	Waiting for pairing
+Green	Blue	Bluetooth Speaker or Audio In
+ 
+Maintenance
+General Precautions
+•	Make sure the projector is turned off and the power cable is unplugged from the
+power outlet.
+•	Never remove any parts from the projector. Contact ViewSonic® or a reseller when any part of the projector needs replacing.
+•	Never spray or pour any liquid directly onto the case.
+•	Handle the projector with care, as a darker-colored projector, if scuffed, may
+show marks more clearly than a lighter-colored projector.
+Cleaning the Lens
+•	Use a canister of compressed air to remove dust.
+•	If the lens is still not clean, use lens-cleaning paper or moisten a soft cloth with
+lens cleaner and gently wipe the surface.
+CAUTION: Never rub the lens with abrasive materials.
+Cleaning the Case
+•	Use a soft, lint-free, dry cloth to remove dirt or dust.
+•	If the case is still not clean, apply a small amount of non-ammonia, non-alcohol based, mild non-abrasive detergent onto a clean, soft, lint-free cloth, then wipe the surface.
+CAUTION: Never use wax, alcohol, benzene, thinner, or other chemical
+detergents.
+Storing the Projector
+If you intend to store the projector for an extended period of time:
+•	Ensure the temperature and humidity of the storage area are within the recommend range.
+•	Retract the adjuster foot completely.
+•	Remove the batteries from the remote control.
+•	Pack the projector in its original packaging or equivalent.
+Disclaimer
+•	ViewSonic® does not recommend the use of any ammonia or alcohol-based cleaners on the lens or case. Some chemical cleaners have been reported to damage the lens and/or case of the projector.
+•	ViewSonic® will not be liable for damage resulting from use of any ammonia or
+alcohol-based cleaners.
+ 
+  Regulatory and Service Information
+Compliance Information
+This section addresses all connected requirements and statements regarding regulations. Confirmed corresponding applications shall refer to nameplate labels and relevant markings on the unit.
+FCC Compliance Statement
+This device complies with part 15 of FCC Rules. Operation is subject to the following two conditions: (1) this device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation. This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to part 15 of the FCC Rules.
+These limits are designed to provide reasonable protection against harmful interference in a residential installation. This equipment generates, uses, and can radiate radio frequency energy, and if not installed and used in accordance with the instructions, may cause harmful interference to radio communications.
+However, there is no guarantee that interference will not occur in a particular installation. If this equipment does cause harmful interference to radio or television reception, which can be determined by turning the equipment off and on, the user is encouraged to try to correct the interference by one or more of the following measures:
+•	Reorient or relocate the receiving antenna.
+•	Increase the separation between the equipment and receiver.
+•	Connect the equipment into an outlet on a circuit different from that to which
+the receiver is connected.
+•	Consult the dealer or an experienced radio/TV technician for help.
+Warning: You are cautioned that changes or modifications not expressly approved by the party responsible for compliance could void your authority to operate the equipment.
+Industry Canada Statement
+CAN ICES-003(B) / NMB-003(B)
+ 
+This device complies with Industry Canada licence-exempt RSS standard(s).
+Operation is subject to the following two conditions:
+(1)	This device may not cause interference, and
+(2)	This device must accept any interference, including interference that may cause
+undesired operation of the device.
+This device complies with RSS 210 of Industry Canada. This Class B device meets all
+the requirements of the Canadian interference-causing equipment regulations.
+Under Industry Canada regulations, this radio transmitter may only operate using an antenna of a type and maximum (or lesser) gain approved for the transmitter by Industry Canada. To reduce potential radio interference to other users, the antenna type and its gain should be so chosen that the equivalent isotropically radiated power (e.i.r.p.) is not more than that necessary for successful
+Antenna Type : Dipole, Gain : 4.35 dBi (2.4 GHz)
+CE Conformity for European Countries
+
+
+ 	The device complies with the EMC Directive 2014/30/EU and Low Voltage
+Directive 2014/35/EU.
+The following information is only for EU-member states:
+The mark shown to the right is in compliance with the Waste Electrical
+and Electronic Equipment Directive 2012/19/EU (WEEE). The mark indicates the requirement NOT to dispose of the equipment as unsorted municipal waste, but use the return and collection systems according to
+local law.	
+ 
+ 
+Declaration of RoHS2 Compliance
+This product has been designed and manufactured in compliance with Directive 2011/65/EU of the European Parliament and the Council on restriction of the use of certain hazardous substances in electrical and electronic equipment (RoHS2 Directive) and is deemed to comply with the maximum concentration values issued by the European Technical Adaptation Committee (TAC) as shown below:
+
+Substance	Proposed Maximum
+Concentration	Actual Concentration
+Lead (Pb)	0.1%	< 0.1%
+Mercury (Hg)	0.1%	< 0.1%
+Cadmium (Cd)	0.01%	< 0.01%
+Hexavalent Chromium (Cr6⁺)	0.1%	< 0.1%
+Polybrominated biphenyls (PBB)	0.1%	< 0.1%
+Polybrominated diphenyl ethers
+(PBDE)	0.1%	< 0.1%
+Certain components of products as stated above are exempted under the Annex III of the RoHS2 Directives as noted below. Examples of exempted components are:
+•	Mercury in cold cathode fluorescent lamps and external electrode fluorescent lamps (CCFL and EEFL) for special purposes not exceeding (per lamp):
+ͫ Short length (500 mm): maximum 3.5 mg per lamp.
+ͫ Medium length (> 500 mm and 1,500 mm): maximum 5 mg per lamp.
+ͫ Long length (> 1,500 mm): maximum 13 mg per lamp.
+•	Lead in glass of cathode ray tubes.
+•	Lead in glass of fluorescent tubes not exceeding 0.2% by weight.
+•	Lead as an alloying element in aluminum containing up to 0.4% lead by weight.
+•	Copper alloy containing up to 4% lead by weight.
+•	Lead in high melting temperature type solders (i.e. lead-based alloys containing
+85% by weight or more lead).
+•	Electrical and electronic components containing lead in a glass or ceramic other than dielectric ceramic in capacitors, e.g. piezoelectronic devices, or in a glass or ceramic matrix compound.
+ 
+Indian Restriction of Hazardous Substances
+Restriction on Hazardous Substances statement (India). This product complies with the “India E-waste Rule 2011” and prohibits use of lead, mercury, hexavalent chromium, polybrominated biphenyls or polybrominated diphenyl ethers in concentrations exceeding 0.1 weight % and 0.01 weight % for cadmium, except for the exemptions set in Schedule 2 of the Rule.
+
+Product Disposal at End of Product Life
+ViewSonic® respects the environment and is committed to working and living green. Thank you for being part of Smarter, Greener Computing. Please visit the ViewSonic® website to learn more.
+USA & Canada:
+https://www.viewsonic.com/us/go-green-with-viewsonic
+Europe:
+https://www.viewsonic.com/eu/environmental-social-governance/recycle
+Taiwan:
+https://recycle.moenv.gov.tw/
+
+For EU users, please contact us for any safety/accident issue experienced with this product:
+
+ViewSonic Europe Limited
+Haaksbergweg 75
+1101 BR Amsterdam Netherlands
++31 (0) 650608655
+EPREL@viewsoniceurope.com
+https://www.viewsonic.com/eu/
+ 
+Copyright Information
+Copyright© ViewSonic® Corporation, 2019. All rights reserved.
+
+Macintosh and Power Macintosh are registered trademarks of Apple Inc.
+
+Microsoft, Windows, and the Windows logo are registered trademarks of Microsoft Corporation in the United States and other countries.
+
+ViewSonic®, the three birds logo, OnView, ViewMatch, and ViewMeter are
+registered trademarks of ViewSonic® Corporation.
+
+VESA is a registered trademark of the Video Electronics Standards Association. DPMS, DisplayPort, and DDC are trademarks of VESA.
+
+ENERGY STAR® is a registered trademark of the U.S. Environmental Protection
+Agency (EPA).
+
+As an ENERGY STAR® partner, ViewSonic® Corporation has determined that this product meets the ENERGY STAR® guidelines for energy efficiency.
+
+Disclaimer: ViewSonic® Corporation shall not be liable for technical or editorial errors or omissions contained herein; nor for incidental or consequential damages resulting from furnishing this material, or the performance or use of this product.
+
+In the interest of continuing product improvement, ViewSonic® Corporation reserves the right to change product specifications without notice. Information in this document may change without notice.
+
+No part of this document may be copied, reproduced, or transmitted by any means, for any purpose without prior written permission from ViewSonic® Corporation.
+
+
+
+
+
+
+X10-4K_UG_ENG_1e_20250617
+ 
+Customer Service
+For technical support or product service, see the table below or contact your reseller.
+NOTE: You will need the product’s serial number.
+
+Country/ Region	Website	Country/ Region	Website
+Asia Pacific & Africa
+Australia	www.viewsonic.com/au/
+Bangladesh	www.viewsonic.com/bd/
+中国 (China)	www.viewsonic.com.cn
+香港 (繁體中文)	www.viewsonic.com/hk/
+Hong Kong (English)	www.viewsonic.com/hk-en/
+India	www.viewsonic.com/in/
+Indonesia	www.viewsonic.com/id/
+Israel	www.viewsonic.com/il/
+日本 (Japan)	www.viewsonic.com/jp/
+Korea	www.viewsonic.com/kr/
+Malaysia	www.viewsonic.com/my/
+Middle East	www.viewsonic.com/me/
+Myanmar	www.viewsonic.com/mm/
+Nepal	www.viewsonic.com/np/
+New Zealand	www.viewsonic.com/nz/
+Pakistan	www.viewsonic.com/pk/
+Philippines	www.viewsonic.com/ph/
+Singapore	www.viewsonic.com/sg/
+臺灣 (Taiwan)	www.viewsonic.com/tw/
+ประเทศไทย	www.viewsonic.com/th/
+Việt Nam	www.viewsonic.com/vn/
+South Africa & Mauritius	www.viewsonic.com/za/
+Americas
+United States	www.viewsonic.com/us
+Canada	www.viewsonic.com/us
+Latin America	www.viewsonic.com/la
+
+Europe
+Europe	www.viewsonic.com/eu/
+France	www.viewsonic.com/fr/
+Deutschland	www.viewsonic.com/de/
+Қазақстан	www.viewsonic.com/kz/
+Россия	www.viewsonic.com/ru/
+España	www.viewsonic.com/es/
+Türkiye	www.viewsonic.com/tr/
+Україна	www.viewsonic.com/ua/
+United Kingdom	www.viewsonic.com/uk/
+
+ 
+Limited Warranty
+ViewSonic® Projector
+
+What the warranty covers:
+ViewSonic® warrants its products to be free from defects in material and workmanship, under normal use, during the warranty period. If a product proves to be defective in material or workmanship during the warranty period,
+ViewSonic® will, at its sole option, repair or replace the product with a like product. Replacement product or parts may include remanufactured or refurbished parts or components.
+
+Limited Three (3) year General Warranty:
+Subject to the more limited one (1) year warranty set out below, North and South America: Three (3) years warranty for all parts excluding the lamp, three (3) years for labor, and one (1) year for the original lamp from the date of the first consumer purchase.
+Other regions or countries: Please check with your local dealer or local ViewSonic®
+office for the warranty information.
+
+Limited One (1) year Heavy Usage Warranty:
+Under heavy usage settings, where a projector’s use includes more than fourteen
+(14) hours average daily usage, North and South America: One (1) year warranty for all parts excluding the lamp, one (1) year for labor, and ninety (90) days for the original lamp from the date of the first consumer purchase; Europe: One (1) year
+warranty for all parts excluding the lamp, one (1) year for labor, and ninety (90) days
+for the original lamp from the date of the first consumer purchase. Other regions or countries: Please check with your local dealer or local ViewSonic® office for the warranty information. Lamp warranty subject to terms and conditions, verification and approval. Applies to manufacturer’s installed lamp only. All accessory lamps purchased separately are warranted for 90 days.
+
+Who the warranty protects:
+This warranty is valid only for the first consumer purchaser.
+ 
+What the warranty does not cover:
+1.	Any product on which the serial number has been defaced, modified, or
+removed.
+2.	Damage, deterioration, or malfunction resulting from:
+ͫ Accident, misuse, neglect, fire, water, lightning, or other acts of nature, unauthorized product modification, or failure to follow instructions supplied with the product.
+ͫ Operation outside of product specifications.
+ͫ Operation of the product for other than the normal intended use or not under normal conditions.
+ͫ Repair or attempted repair by anyone not authorized by ViewSonic®.
+ͫ Any damage of the product due to shipment.
+ͫ Removal or installation of the product.
+ͫ Causes external to the product, such as electric power fluctuations or
+failure.
+ͫ Use of supplies or parts not meeting Viewsonic’s specifications.
+ͫ Normal wear and tear.
+ͫ Any other cause which does not relate to a product defect.
+3.	Removal, installation, and set-up service charges.
+
+How to get service:
+1.	For information about receiving service under warranty, contact ViewSonic® Customer Support (Please refer to the “Customer Support” page). You will need to provide your product’s serial number.
+2.	To obtain warranted service, you will be required to provide: (a) the original dated sales slip, (b) your name, (c) your address, (d) a description of the problem, and (e) the serial number of the product.
+3.	Take or ship the product, freight prepaid, in the original container to an
+authorized ViewSonic® service center or ViewSonic®.
+4.	For additional information or the name of the nearest ViewSonic® service center,
+contact ViewSonic®.
+
+Limitation of implied warranties:
+There are no warranties, express or implied, which extend beyond the description contained herein including the implied warranty of merchantability and fitness for a particular purpose.
+ 
+Exclusion of damages:
+ViewSonic’s liability is limited to the cost of repair or replacement of the product. ViewSonic® shall not be liable for:
+1.	Damage to other property caused by any defects in the product, damages based upon inconvenience, loss of use of the product, loss of time, loss of profits, loss of business opportunity, loss of goodwill, interference with business relationships, or other commercial loss, even if advised of the possibility of such damages.
+2.	Any other damages, whether incidental, consequential or otherwise.
+3.	Any claim against the customer by any other party.
+
+Effect of state law:
+This warranty gives you specific legal rights, and you may also have other rights which vary from local authority. Some local governments do not allow limitations on implied warranties and/or do not allow the exclusion of incidental or consequential damages, so the above limitations and exclusions may not apply to you.
+
+Sales outside the U.S.A. and Canada:
+For warranty information and service on ViewSonic® products sold outside of the
+U.S.A. and Canada, contact ViewSonic® or your local ViewSonic® dealer.
+The warranty period for this product in mainland China (Hong Kong, Macao, and Taiwan Excluded) is subject to the terms and conditions of the Maintenance Guarantee Card.
+For users in Europe and Russia, full details of warranty provided can be found at: http://www.viewsonic.com/eu/ under “Support/Warranty Information”.
+
+
+
+
+
+
+
+
+
+
+
+Projector Warranty Term Template In UG VSC_TEMP_2005
+ 
+Mexico Limited Warranty
+ViewSonic® Projector
+
+What the warranty covers:
+ViewSonic® warrants its products to be free from defects in material and workmanship, under normal use, during the warranty period. If a product proves to be defective in material or workmanship during the warranty period,
+ViewSonic® will, at its sole option, repair or replace the product with a like product. Replacement product or parts may include remanufactured or refurbished parts or components & accessories.
+
+How long the warranty is effective:
+3 years for all parts excluding the lamp, 3 years for labor, 1 year for the original
+lamp from the date of the first consumer purchase.
+Lamp warranty subject to terms and conditions, verification and approval. Applies
+to manufacturer’s installed lamp only.
+All accessory lamps purchased separately are warranted for 90 days.
+
+Who the warranty protects:
+This warranty is valid only for the first consumer purchaser.
+
+What the warranty excludes and does not cover:
+1.	Any product on which the serial number has been defaced, modified or removed.
+2.	Damage, deterioration, or malfunction resulting from:
+ͫ Accident, misuse, neglect, fire, water, lightning, or other acts of nature, unauthorized product modification, unauthorized attempted repair, or failure to follow instructions supplied with the product.
+ͫ Any damage of the product due to shipment.
+ͫ Causes external to the product, such as electrical power fluctuations or
+failure.
+ͫ Use of supplies or parts not meeting ViewSonic®’s specifications.
+ͫ Normal wear and tear.
+ͫ Any other cause which does not relate to a product defect.
+3.	Any product exhibiting a condition commonly known as “image burn-in” which results when a static image is displayed on the product for an extended period of time.
+4.	Removal, installation, insurance, and set-up service charges.
+ 
+How to get service:
+For information about receiving service under warranty, contact ViewSonic® Customer Support (Please refer to the attached “Customer Service” page). You will need to provide your product’s serial number, so please record the product information in the space provided below on your purchase for your future use. Please retain your receipt of proof of purchase to support your warranty claim.
+For Your Records
+
+Product Name:
+Model Number:
+
+Document Number:
+Serial Number:
+
+Purchase Date:
+Extended Warranty Purchase?	(Y/N)
+If so, what date does warranty expire?
+1.	To obtain warranty service, you will be required to provide (a) the original dated sales slip, (b) your name, (c) your address, (d) a description of the problem, and
+(e) the serial number of the product.
+2.	Take or ship the product, in the original container packaging, to an authorized
+ViewSonic® service center.
+3.	Round trip transportation costs for in-warranty products will be paid by
+ViewSonic®.
+
+Limitation of implied warranties:
+There are no warranties, express or implied, which extend beyond the description contained herein including the implied warranty of merchantability and fitness for a particular purpose.
+
+Exclusion of damages:
+ViewSonic®’s liability is limited to the cost of repair or replacement of the product. ViewSonic® shall not be liable for:
+1.	Damage to other property caused by any defects in the product, damages based upon inconvenience, loss of use of the product, loss of time, loss of profits, loss of business opportunity, loss of goodwill, interference with business relationships, or other commercial loss, even if advised of the possibility of such damages.
+2.	Any other damages, whether incidental, consequential or otherwise.
+3.	Any claim against the customer by any other party.
+4.	Repair or attempted repair by anyone not authorized by ViewSonic®.
+ 
+Contact Information for Sales & Authorized Service (Centro Autorizado de Servicio) within Mexico:
+Name, address, of manufacturer and importers:
+México, Av. de la Palma #8 Piso 2 Despacho 203, Corporativo Interpalmas, Col. San Fernando Huixquilucan, Estado de México
+Tel: (55) 3605-1099 http://www.viewsonic.com/la/soporte/index.htm
+NÚMERO GRATIS DE ASISTENCIA TÉCNICA PARA TODO MÉXICO: 001.866.823.2004
+Hermosillo:
+Distribuciones y Servicios Computacionales SA de CV. Calle Juarez 284 local 2
+Col. Bugambilias C.P: 83140 Tel: 01-66-22-14-9005
+E-Mail: disc2@hmo.megared.net.mx
+Villahermosa:
+Compumantenimietnos Garantizados, S.A. de C.V. AV. GREGORIO MENDEZ #1504
+COL, FLORIDA C.P. 86040
+Tel: 01 (993) 3 52 00 47 / 3522074 / 3 52 20 09
+E-Mail: compumantenimientos@prodigy.net.mx
+Puebla, Pue. (Matriz):
+RENTA Y DATOS, S.A. DE C.V. Domicilio: 29 SUR 721 COL. LA PAZ
+72160 PUEBLA, PUE.
+Tel: 01(52).222.891.55.77 CON 10 LINEAS
+E-Mail: datos@puebla.megared.net.mx
+Veracruz, Ver.:
+CONEXION Y DESARROLLO, S.A DE C.V. Av.
+Americas # 419
+ENTRE PINZÓN Y ALVARADO
+Fracc. Reforma C.P. 91919 Tel: 01-22-91-00-31-67
+E-Mail: gacosta@qplus.com.mx
+Chihuahua:
+Soluciones Globales en Computación
+C. Magisterio # 3321 Col. Magisterial Chihuahua, Chih.
+Tel: 4136954
+E-Mail: Cefeo@soluglobales.com
+Cuernavaca:
+Compusupport de Cuernavaca SA de CV
+Francisco Leyva # 178 Col. Miguel Hidalgo
+C.P. 62040, Cuernavaca Morelos
+Tel: 01 777 3180579 / 01 777 3124014
+E-Mail: aquevedo@compusupportcva.com
+Distrito Federal:
+QPLUS, S.A. de C.V.
+Av. Coyoacán 931
+Col. Del Valle 03100, México, D.F.
+Tel: 01(52)55-50-00-27-35
+E-Mail : gacosta@qplus.com.mx
+Guadalajara, Jal.:
+SERVICRECE, S.A. de C.V.
+Av. Niños Héroes # 2281 Col. Arcos Sur, Sector Juárez 44170, Guadalajara, Jalisco
+Tel: 01(52)33-36-15-15-43
+E-Mail: mmiranda@servicrece.com
+Guerrero Acapulco:
+GS Computación (Grupo Sesicomp) Progreso #6-A, Colo Centro
+39300 Acapulco, Guerrero
+Tel: 744-48-32627	Monterrey:
+Global Product Services
+Mar Caribe # 1987, Esquina con Golfo Pérsico
+Fracc. Bernardo Reyes, CP 64280
+Monterrey N.L. México
+Tel: 8129-5103
+E-Mail: aydeem@gps1.com.mx
+MERIDA:
+ELECTROSER
+Av Reforma No. 403Gx39 y 41 Mérida, Yucatán, México CP97000 Tel: (52) 999-925-1916
+E-Mail: rrrb@sureste.com
+Oaxaca, Oax.:
+CENTRO DE DISTRIBUCION Y
+SERVICIO, S.A. de C.V.
+Murguía # 708 P.A., Col. Centro, 68000, Oaxaca Tel: 01(52)95-15-15-22-22
+Fax: 01(52)95-15-13-67-00
+E-Mail. gpotai2001@hotmail.com
+Tijuana:
+STD
+Av Ferrocarril Sonora #3780 L-C
+Col 20 de Noviembr Tijuana, Mexico	FOR USA SUPPORT:
+ViewSonic® Corporation
+381 Brea Canyon Road, Walnut, CA. 91789 USA Tel: 800-688-6688
+E-Mail: http://www.viewsonic.com
+Projector Mexico Warranty Term Template In UG VSC_TEMP_2006

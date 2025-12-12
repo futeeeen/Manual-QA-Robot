@@ -1,0 +1,9 @@
+flask
+line-bot-sdk
+python-dotenv
+torch
+transformers
+sentencepiece
+faiss-cpu
+numpy
+tqdm
